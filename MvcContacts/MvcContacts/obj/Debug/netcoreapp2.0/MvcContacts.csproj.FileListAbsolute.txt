@@ -1,0 +1,13 @@
+/Users/macbook/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcContacts.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcContacts.AssemblyInfoInputs.cache
+/Users/macbook/Projects/MvcMovie/MvcMovie/obj/Debug/netcoreapp2.0/MvcContacts.AssemblyInfo.cs
+/Users/macbook/Projects/MvcMovie/MvcContacts/bin/Debug/netcoreapp2.0/MvcContacts.deps.json
+/Users/macbook/Projects/MvcMovie/MvcContacts/bin/Debug/netcoreapp2.0/MvcContacts.runtimeconfig.json
+/Users/macbook/Projects/MvcMovie/MvcContacts/bin/Debug/netcoreapp2.0/MvcContacts.runtimeconfig.dev.json
+/Users/macbook/Projects/MvcMovie/MvcContacts/bin/Debug/netcoreapp2.0/MvcContacts.dll
+/Users/macbook/Projects/MvcMovie/MvcContacts/bin/Debug/netcoreapp2.0/MvcContacts.pdb
+/Users/macbook/Projects/MvcMovie/MvcContacts/obj/Debug/netcoreapp2.0/MvcContacts.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/MvcMovie/MvcContacts/obj/Debug/netcoreapp2.0/MvcContacts.AssemblyInfoInputs.cache
+/Users/macbook/Projects/MvcMovie/MvcContacts/obj/Debug/netcoreapp2.0/MvcContacts.AssemblyInfo.cs
+/Users/macbook/Projects/MvcMovie/MvcContacts/obj/Debug/netcoreapp2.0/MvcContacts.dll
+/Users/macbook/Projects/MvcMovie/MvcContacts/obj/Debug/netcoreapp2.0/MvcContacts.pdb
